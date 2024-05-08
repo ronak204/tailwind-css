@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+
+.title{
+    @apply text-lime-500 font-bold text-lg;
+}
+.title-span{
+    @apply text-white font-bold text-[40px] mt-1;
+}
+
+@tailwind utilities;
+
+
